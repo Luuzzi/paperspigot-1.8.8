@@ -9,4 +9,4 @@
 	url = https://github.com/Luuzzi/builddata-1.8.8.git
 [submodule "Paperclip"]
 	path = Paperclip
-	url = https://github.com/Luuzzi/paperclip-1.8.8.git
+	url = https://github.com/Luuzzi/paperclip-1.8.8
